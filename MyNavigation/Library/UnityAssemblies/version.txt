@@ -1,0 +1,8 @@
+5.3.6p8:2.3.0.0
+StandaloneWindows
+D:/Program Files/Unity536p8/Editor/Data/Managed/UnityEngine.dll
+D:/Program Files/Unity536p8/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Program Files/Unity536p8/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Program Files/Unity536p8/Editor/Data/Managed/UnityEditor.dll
+D:/Program Files/Unity536p8/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/Program Files/Unity536p8/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll

@@ -1,0 +1,21 @@
+scene0:
+	player 寻找 target
+	烘焙场景，player挂在agent
+	代码设置目标地。
+	添加遮挡物，选择物体在Navigation中选中navigation static
+scene1：
+    target可以不再导航网格上，但是高度是有限度的。
+scene2和scene3：
+	OffMeshLink
+	爬楼梯，还是跳跃，NavMesh都是通过了OffMeshLink来做的。
+	方法1：
+		楼梯添加OffMeshLink组件，设置起始点。就能实现能上能下的逻辑。
+	方法2：
+		Drop Height（掉落高度）填2.5，Jump Distance（跳跃距离）填2，单位都是米。就能实现跳远,跳下的逻辑。
+scene4：
+	不同小队分不同路线进攻的寻路
+	设置NavMeshLayer,不同的寻路不同的层
+scene5：
+	动态的控制道路的开关。当吊桥打开时，道路不通，当吊桥放下时，道路可以通行。
+scene6：
+scene7：

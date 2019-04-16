@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/scene6\uFF08dynamic\uFF09.unity"
+  isLoaded: 1
+  isActive: 1
